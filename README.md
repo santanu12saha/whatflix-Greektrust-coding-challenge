@@ -3,6 +3,11 @@ A restful web service implementation of building a movie recommendation system u
 
 Build a Restful web service API which will accept a search string and userID and return unique movies in the order of preference for that user.
 
+ Build data model
+ Automate load Movie Documents to Apache Lucence Search
+ Build Apache Lucence Query
+ Convert them into recommendation api
+
 http://ipaddress:portno/api/movies/user/100/search?text=avatar,the lovers
 
 Response: 
