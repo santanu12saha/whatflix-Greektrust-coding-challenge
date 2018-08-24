@@ -19,6 +19,7 @@ Build a Restful web service API which will list out all the users and the top 3 
 
 http://ipaddress:portno/advanced-jaxrs-07-with-rxjava-whatflix-api/api/movies/users
 
+Response:
 [
     {
         "user": "100",
